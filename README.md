@@ -66,8 +66,7 @@ Como próximos passos para escalabilidade da solução analítica:
 
 ## 🔗 Links e Entregáveis
 * 🗂️ **Download do Dashboard Power BI:** [dashboard_pncp.pbix](./powerbi/dashboard_pncp.pbix)
-* 🎥 **Vídeo de Defesa (Review de Sprint):** [COLE O SEU LINK DO GOOGLE DRIVE AQUI]
-
+* 🎥 ** **Vídeo de Defesa (Review de Sprint):** [Assistir Vídeo no OneDrive](https://onedrive.live.com/photos?photosData=%2Fshare%2F814AAAD8EF4B35E0%21s441d6181b7674b689536607fe26771ce%3Fithint%3Dvideo%26e%3DoChFVn%26migratedtospo%3Dtrue&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy84MTRhYWFkOGVmNGIzNWUwL0lRQ0JZUjFFWjdkb1M1VTJZSF9pWjNIT0FZbHg4QkVSUy04c25EQkg5YlpVcDA0P2U9b0NoRlZu)
 ---
 **Desenvolvida por:** Juliana Matsuda  
 *Desenvolvedora de Software & Analista de Dados | Estudante de ADS, Análise de Dados e AWS Cloud*
